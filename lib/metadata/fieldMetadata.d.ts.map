@@ -1,0 +1,1 @@
+{"version":3,"file":"fieldMetadata.d.ts","sourceRoot":"","sources":["../../src/metadata/fieldMetadata.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,qCAAmC;AAE7D,MAAM,WAAW,aAAa;IAC5B,IAAI,EAAE,MAAM,CAAA;IACZ,MAAM,EAAE,OAAO,CAAA;IACf,YAAY,CAAC,EAAE,MAAM,CAAA;IACrB,MAAM,EAAE,OAAO,CAAC,eAAe,CAAC,CAAA;CACjC"}
